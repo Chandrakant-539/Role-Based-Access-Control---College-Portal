@@ -37,7 +37,7 @@ This ensures that even if a hacker tries to bypass the UI, the MongoDB engine it
 🚀 One-Click Setup
 1. Clone & Install
 Bash
-git clone https://github.com/yourusername/RBAC-Portal.git
+git clone [https://github.com/yourusername/RBAC-Portal.git](https://github.com/Chandrakant-539/Role-Based-Access-Control---College-Portal.git)
 cd RBAC-Portal && npm install && cd frontend && npm install
 2. Configure the Engine (.env)
 Code snippet
