@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "674f2b003da872e108c51739"
+  },
+  "classId": "MAT101",
+  "teacherId": {
+    "$oid": "674f28623da872e108c51627"
+  },
+  "day": "T",
+  "period": 3,
+  "createdAt": {
+    "$date": "2024-12-03T16:00:00.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f2ecc3da872e108c517ed"
+  },
+  "classId": "CST101",
+  "teacherId": {
+    "$oid": "674f28623da872e108c51627"
+  },
+  "day": "M",
+  "period": 1,
+  "createdAt": {
+    "$date": "2024-12-03T16:16:12.573Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "674c551f12122b937c92eb41"
+  },
+  "userId": {
+    "$oid": "674c551f12122b937c92eb3f"
+  },
+  "department": "CS",
+  "managedClasses": [],
+  "__v": 0
+}]

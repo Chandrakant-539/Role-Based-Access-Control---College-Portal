@@ -1,0 +1,1249 @@
+[{
+  "_id": {
+    "$oid": "674c546d12122b937c92eb09"
+  },
+  "userId": {
+    "$oid": "674c546d12122b937c92eb07"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c546d12122b937c92eb0b"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c546d12122b937c92eb0c"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c546d12122b937c92eb0d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674c546d12122b937c92eb0a"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c546d12122b937c92eb0f"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c546d12122b937c92eb10"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c546d12122b937c92eb11"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674c546d12122b937c92eb0e"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674c549512122b937c92eb17"
+  },
+  "userId": {
+    "$oid": "674c549512122b937c92eb15"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c549512122b937c92eb19"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c549512122b937c92eb1a"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c549512122b937c92eb1b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674c549512122b937c92eb18"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c549512122b937c92eb1d"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c549512122b937c92eb1e"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674c549512122b937c92eb1f"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674c549512122b937c92eb1c"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d41b1227e9db91c6aaa8d"
+  },
+  "userId": {
+    "$oid": "674d41b1227e9db91c6aaa8b"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674d41b1227e9db91c6aaa8f"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674d41b1227e9db91c6aaa90"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674d41b1227e9db91c6aaa91"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674d41b1227e9db91c6aaa8e"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674d41b1227e9db91c6aaa93"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674d41b1227e9db91c6aaa94"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674d41b1227e9db91c6aaa95"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674d41b1227e9db91c6aaa92"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd1685170d968ded66a8e"
+  },
+  "userId": {
+    "$oid": "674dd1685170d968ded66a8c"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674dd1685170d968ded66a90"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674dd1685170d968ded66a91"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674dd1685170d968ded66a92"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674dd1685170d968ded66a8f"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674dd1685170d968ded66a94"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674dd1685170d968ded66a95"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674dd1685170d968ded66a96"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674dd1685170d968ded66a93"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f28623da872e108c51629"
+  },
+  "userId": {
+    "$oid": "674f28623da872e108c51627"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": false,
+          "_id": {
+            "$oid": "674f28623da872e108c5162b"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c5162c"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c5162d"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c5162e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28623da872e108c5162a"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51630"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51631"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": false,
+          "_id": {
+            "$oid": "674f28623da872e108c51632"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51633"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28623da872e108c5162f"
+      }
+    },
+    {
+      "day": "W",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51635"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51636"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51637"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51638"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28623da872e108c51634"
+      }
+    },
+    {
+      "day": "Th",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c5163a"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c5163b"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c5163c"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c5163d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28623da872e108c51639"
+      }
+    },
+    {
+      "day": "F",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c5163f"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51640"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51641"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28623da872e108c51642"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28623da872e108c5163e"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f289c3da872e108c5164f"
+  },
+  "userId": {
+    "$oid": "674f289c3da872e108c5164d"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51651"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51652"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51653"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51654"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f289c3da872e108c51650"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51656"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51657"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51658"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51659"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f289c3da872e108c51655"
+      }
+    },
+    {
+      "day": "W",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c5165b"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c5165c"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c5165d"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c5165e"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f289c3da872e108c5165a"
+      }
+    },
+    {
+      "day": "Th",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51660"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51661"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51662"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51663"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f289c3da872e108c5165f"
+      }
+    },
+    {
+      "day": "F",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51665"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51666"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51667"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f289c3da872e108c51668"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f289c3da872e108c51664"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f28bd3da872e108c5166e"
+  },
+  "userId": {
+    "$oid": "674f28bd3da872e108c5166c"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51670"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51671"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51672"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51673"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28bd3da872e108c5166f"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51675"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51676"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51677"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51678"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28bd3da872e108c51674"
+      }
+    },
+    {
+      "day": "W",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c5167a"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c5167b"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c5167c"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c5167d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28bd3da872e108c51679"
+      }
+    },
+    {
+      "day": "Th",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c5167f"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51680"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51681"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51682"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28bd3da872e108c5167e"
+      }
+    },
+    {
+      "day": "F",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51684"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51685"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51686"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28bd3da872e108c51687"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28bd3da872e108c51683"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f28d63da872e108c5168d"
+  },
+  "userId": {
+    "$oid": "674f28d63da872e108c5168b"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c5168f"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c51690"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c51691"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c51692"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28d63da872e108c5168e"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c51694"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c51695"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c51696"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c51697"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28d63da872e108c51693"
+      }
+    },
+    {
+      "day": "W",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c51699"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c5169a"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c5169b"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c5169c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28d63da872e108c51698"
+      }
+    },
+    {
+      "day": "Th",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c5169e"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c5169f"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c516a0"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c516a1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28d63da872e108c5169d"
+      }
+    },
+    {
+      "day": "F",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c516a3"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c516a4"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c516a5"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f28d63da872e108c516a6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f28d63da872e108c516a2"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674f29813da872e108c516c3"
+  },
+  "userId": {
+    "$oid": "674f29813da872e108c516c1"
+  },
+  "department": "CS",
+  "available": [
+    {
+      "day": "M",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516c5"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516c6"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516c7"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516c8"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f29813da872e108c516c4"
+      }
+    },
+    {
+      "day": "T",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516ca"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516cb"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516cc"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516cd"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f29813da872e108c516c9"
+      }
+    },
+    {
+      "day": "W",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516cf"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516d0"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516d1"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516d2"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f29813da872e108c516ce"
+      }
+    },
+    {
+      "day": "Th",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516d4"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516d5"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516d6"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516d7"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f29813da872e108c516d3"
+      }
+    },
+    {
+      "day": "F",
+      "periods": [
+        {
+          "period": 1,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516d9"
+          }
+        },
+        {
+          "period": 2,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516da"
+          }
+        },
+        {
+          "period": 3,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516db"
+          }
+        },
+        {
+          "period": 4,
+          "isAvailable": true,
+          "_id": {
+            "$oid": "674f29813da872e108c516dc"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "674f29813da872e108c516d8"
+      }
+    }
+  ],
+  "assignedSchedules": [],
+  "__v": 0
+}]

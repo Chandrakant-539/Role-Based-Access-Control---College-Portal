@@ -1,0 +1,146 @@
+[
+  {
+    "_id": {
+      "$oid": "674c551f12122b937c92eb3f"
+    },
+    "name": "Amit Kumar",
+    "email": "amit.kumar@admin.com",
+    "password": "$2a$10$XO0kw.rs/IwQ312jNPKZauxsfLw4U7glhyx.mvFwQESrQ9HutfL12",  
+    "role": "HOD",
+    "createdAt": {
+      "$date": "2024-12-01T12:22:55.730Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674c551f12122b937c92eb41"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "674f28623da872e108c51627"
+    },
+    "name": "Rajesh Verma",
+    "email": "rajesh.verma@gmail.com",
+    "password": "$2a$10$ztPD2FwXELE3WSdAf4nczOiQoZooiXstdkex5/aXetCjgPfuIwG8a", 
+    "role": "Teacher",
+    "createdAt": {
+      "$date": "2024-12-03T15:48:50.714Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674f28623da872e108c51629"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "674f289c3da872e108c5164d"
+    },
+    "name": "Mohan Das",
+    "email": "mohan.das@gmail.com",
+    "password": "$2a$10$cVgU3XwuHkUcq0qFPqXixOeH0YQPThUbndzvR95g6DiQp4Syku9u6", 
+    "role": "Teacher",
+    "createdAt": {
+      "$date": "2024-12-03T15:49:48.441Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674f289c3da872e108c5164f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "674f28bd3da872e108c5166c"
+    },
+    "name": "Sagar Patel",
+    "email": "sagar.patel@gmail.com",
+    "password": "$2a$10$Wey4RCZqTJcXgYT5PIZZyO3bq3PPZ55TVUpOcJe1mkesSLsEPni9S", 
+    "role": "Teacher",
+    "createdAt": {
+      "$date": "2024-12-03T15:50:21.227Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674f28bd3da872e108c5166e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "674f28d63da872e108c5168b"
+    },
+    "name": "Nikhil Sharma",
+    "email": "nikhil.sharma@gmail.com",
+    "password": "$2a$10$MStEASHodVzf8JCHQqv03uVL5O7c8mRHaoicPfX6pGn6PkYMkw5BW",  
+    "role": "Teacher",
+    "createdAt": {
+      "$date": "2024-12-03T15:50:46.419Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674f28d63da872e108c5168d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "674f29813da872e108c516c1"
+    },
+    "name": "Sandeep Joshi",
+    "email": "sandeep.joshi@yahoo.com",
+    "password": "$2a$10$lCFpwYHeBl2Bpj3qq0RcO.IyphpjX4kkkwLlr9n2O1W6jWXBZVv7q",  
+    "role": "Teacher",
+    "createdAt": {
+      "$date": "2024-12-03T15:53:37.801Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674f29813da872e108c516c3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "674f299a3da872e108c516e0"
+    },
+    "name": "Prakash Kumar",
+    "email": "prakash.kumar@gmail.com",
+    "password": "$2a$10$mpCClYnVW0yABzRPxrgOB.pu5qdvZaaOsXneIBFdXVmc7fp1fO.yO",  
+    "role": "Student",
+    "createdAt": {
+      "$date": "2024-12-03T15:54:02.016Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674f299a3da872e108c516e2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "674f29a93da872e108c516e6"
+    },
+    "name": "Manju Kumari",
+    "email": "manju.kumari@gmail.com",
+    "password": "$2a$10$p34oUkaRwX1ikbyhFcAPp.XI3Lj57UefxaLdDoj/tCUsmdGQJFB0C", 
+    "role": "Student",
+    "createdAt": {
+      "$date": "2024-12-03T15:54:17.294Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674f29a93da872e108c516e8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "674f29ca3da872e108c516ec"
+    },
+    "name": "Zara Gupta",
+    "email": "zara.gupta@wakanda.com",
+    "password": "$2a$10$7d15BiVIuhshqAgDQxgBO./MEkQ/33e2sCIeEGHOZl0iqNO/v9LGC",  
+    "role": "Student",
+    "createdAt": {
+      "$date": "2024-12-03T15:54:50.794Z"
+    },
+    "__v": 0,
+    "referenceId": {
+      "$oid": "674f29ca3da872e108c516ee"
+    }
+  }
+]

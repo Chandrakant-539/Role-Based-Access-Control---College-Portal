@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "674c47e2d5a4f242d7893bfb"
+  },
+  "name": "CST101",
+  "room": "CSLH1",
+  "tutor": "674c169fec27ef77b4b71fb0"
+},
+{
+  "_id": {
+    "$oid": "674c47fdd5a4f242d7893bfc"
+  },
+  "name": "MAT101",
+  "room": "CSLH3",
+  "tutor": "674c2503d1553fb79f7011b6"
+}]
