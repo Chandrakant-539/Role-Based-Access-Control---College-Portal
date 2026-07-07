@@ -1,4 +1,4 @@
-🛡️ RBAC: Next-Gen University Resource Portal
+🛡️RBAC: Next-Gen University Resource Portal
 RBAC (Role-Based Access Control) is not just a timetable app—it's a high-security administrative engine. Built to solve the "Time Paradox" problem in university departments, it ensures that faculty, subjects, and students are perfectly synchronized under a Zero-Trust architecture.
 
 🎮 The "Interactive" Experience
